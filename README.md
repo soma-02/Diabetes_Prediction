@@ -1,6 +1,6 @@
 # Diabetes_Prediction
 
-	It is a Machine Learning based application using python which gives real time diabetes prediction, means whether a person is diabetic or not.
+	It is a Machine Learning based application using python which gives real time diabetes prediction, means whether a patient is diabetic or not.
 # Working
 
 Developed a model using Logistic Regression algorithm.This model predict whether the patient has diabetes or not based on various features like Glucose level,
