@@ -12,6 +12,14 @@ Insulin, Blood Pressure ,Age,BMI.
 
 •	Numpy
 
+# Process 
+1. Import libraries
+2. Data Selection and Analysis
+3. Data Standardization
+4. Split the data into traindata and testdata
+5. Model Training
+6. Making a predictive System for new test data
+
 
 # Model Training 
 ![Screenshot (57)](https://user-images.githubusercontent.com/95540846/187029776-b60464f5-a064-4b0d-bc5e-7645addf7ff6.png)
